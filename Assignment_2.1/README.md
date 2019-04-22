@@ -1,2 +1,1 @@
-# WSCBS
-Web Services and Cloud-Based Systems
+# WSCBS - Assignment 2.1
